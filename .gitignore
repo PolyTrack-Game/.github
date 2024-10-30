@@ -1,0 +1,10 @@
+# Dependency directories
+node_modules/
+dist/
+
+# Local environment files
+.env
+.DS_Store
+.idea/
+.vscode/
+npm-debug.log*
