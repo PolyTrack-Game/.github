@@ -25,7 +25,7 @@ Poly Track is a dynamic, high-speed, unblocked racing game where players can des
 - **Browser**: Latest version of Chrome, Firefox, Safari, or Edge.
 - **Node.js**: Required to install dependencies if you want to run the project locally.
 
-## Installation
+## Installation [UniTV](https://github.com/Uni-TV)
 
 1. Clone the repository:
    ```bash
